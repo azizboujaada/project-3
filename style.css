@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height:5000px;
+    background-color: blue;
+}
+.vide{
+    background-image: url(image/b.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height:250px;
+}
+.floman{
+    background-attachment: fixed;
+    background-size: cover;
+}
+.carousel-caption{
+    width: 30rrem;
+    height: 10rem;
+    background-color:rgba(138, 126, 126, 0.521);
+}
+.line{
+    background-color: #555;
+}
+
